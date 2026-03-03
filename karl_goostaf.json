@@ -3,7 +3,7 @@
   "wake_word": "karl goostaf",
   "author": "Gabor",
   "website": "",
-  "model": "https://raw.githubusercontent.com/GaWr26/vpe-wakewords/main/karl_goostaf.tflite",
+  "model": "karl_goostaf.tflite",
   "trained_languages": ["de"],
   "version": 2,
   "micro": {
