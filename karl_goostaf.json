@@ -4,7 +4,9 @@
   "author": "Gabor",
   "website": "",
   "model": "karl_goostaf.tflite",
-  "trained_languages": ["de"],
+  "trained_languages": [
+    "de"
+  ],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.97,
